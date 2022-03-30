@@ -1,0 +1,4 @@
+Name, Balance, Position
+Jesper, 25300, 2
+Tess, 27600, 2
+Tobias, 29900, 2
